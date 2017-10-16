@@ -1,0 +1,24 @@
+{
+	"name": "npm-test",
+	"version": "0.0.1",
+	"description": "a test for npm",
+	"license": "Apache 2.0",
+	"repository": "csheets/npm-test",
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+	},
+	"files": [
+		"index.js",
+    "test.js"
+	],
+	"keywords": [
+		"test",
+    "whatever"
+	],
+	"dependencies": {
+	},
+	"devDependencies": {
+	}
+}
